@@ -1,4 +1,6 @@
 <#include<iostream>
-using name gigit commi
+using namespace std;
 
-myasjdnasjdn
+int main(){
+    
+}
